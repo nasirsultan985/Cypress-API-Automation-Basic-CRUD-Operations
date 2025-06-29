@@ -52,11 +52,7 @@ cd cypress-api-automation
 ```sh
 npm install
 ```
-#### 3. Clone this repository  
-```sh
-npm install
-```
-#### 4. Run the Cypress tests
+#### 3. Run the Cypress tests
 To run tests in headless mode:
 ```sh
 npx cypress run  
